@@ -1,0 +1,13 @@
+{
+  "name": "convertetendotvbox",
+  "version": "1.0.0",
+  "description": "[comment]: <> (Página feita para o projeto de conversão de tv box do professor Caio Lhamas, feito por Raissa Martins para completar seu estágio, a página mostra o passo a passo para você converter sua propia tv box em casa sem dificutades.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
